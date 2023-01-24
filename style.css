@@ -1,0 +1,54 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.box1{
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    margin: 2%;
+    padding:2%;
+    text-align: center;
+    background: #000;
+    color: #fff;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+.calcBox{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    position:absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.inPut{
+    height: 30px;
+    width: 300px;
+    position: absolute;
+    top: 8%;
+    left: 18%;
+    outline: none;
+    margin: 1%;
+    padding: 1%;
+    font-size: large;
+}
+
+button{
+    top: 35%;
+    left: 10%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
